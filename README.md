@@ -28,10 +28,6 @@ Dashboard analytique client-side pour Disney Lorcana. Importez votre historique 
 - [Repository](https://github.com/Gon3s/lorcana-stats)
 - [Démo en ligne](https://lorcana-stats.vercel.app/)
 
-### DL Discord Bot
-Bot Discord pour le téléchargement de films et séries sur un serveur privé. Solution complète et automatisée pour gérer vos téléchargements directement depuis Discord.
-- [Repository](https://github.com/Gon3s/dl_discord_bot)
-
 ### Verbmaster
 Application d'apprentissage des verbes irréguliers. Révisez vos verbes n'importe où, n'importe quand avec une interface simple et efficace pour maîtriser les bases de l'anglais.
 - [Repository](https://github.com/Gon3s/verbmaster)
